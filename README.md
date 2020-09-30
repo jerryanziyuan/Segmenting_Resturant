@@ -1,2 +1,3 @@
 # github-Jerry_example
-This repository is a demonstration on some ML work
+This repository hosts Segmenting and Clustering Neighborhoods in NYC
+
