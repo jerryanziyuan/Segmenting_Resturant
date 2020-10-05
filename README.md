@@ -14,7 +14,7 @@ The code should runs on Python versions 3 and above.
 
 ## Project Motivation<a name="motivation"></a>
 
-For this project, I was interestested in using Four Squares API data to help cluster Tornoto neibrohoods.
+For this project, I was interestested in using Four Squares API data to cluster Tornoto neibrohoods.
 
 ## File Descriptions <a name="files"></a>
 
