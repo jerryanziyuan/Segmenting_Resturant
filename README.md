@@ -14,20 +14,15 @@ The code should runs on Python versions 3 and above.
 
 ## Project Motivation<a name="motivation"></a>
 
-For this project, I was interestested in using Seattle Airbnb data from 2017 to better understand:
-
-1.What neighborhoods share similar average prices? Where do you look for an Airbnb given a specific budget?
-2.What are the top 10 neighborhood groups in terms of average listing price?
-3.Which review score has the highest correlation with the listing price?
-4.What are the predictors for the listed price, and how do we price a house on Airbnb?
+For this project, I was interestested in using Four Squares API data to help cluster Tornoto neibrohoods.
 
 ## File Descriptions <a name="files"></a>
 
-There is three jupyter notebooks 
+There are three jupyter notebooks, one pdf report, and a powerpoint slide
 
 ## Results<a name="results"></a>
 
-The main findings of the code can be found at the powerpoint slides
+The main findings of the code can be found at the powerpoint slide
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
