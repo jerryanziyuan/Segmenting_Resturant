@@ -18,7 +18,7 @@ For this project, I was interestested in using Four Squares API data to cluster 
 
 ## File Descriptions <a name="files"></a>
 
-There are three jupyter notebooks, one pdf report, and a powerpoint slide
+There are three jupyter notebooks, a pdf report, and a powerpoint slide
 
 ## Results<a name="results"></a>
 
